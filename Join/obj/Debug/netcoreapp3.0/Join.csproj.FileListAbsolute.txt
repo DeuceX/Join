@@ -1,0 +1,11 @@
+C:\projects\join\Join\Join\bin\Debug\netcoreapp3.0\Join.exe
+C:\projects\join\Join\Join\bin\Debug\netcoreapp3.0\Join.deps.json
+C:\projects\join\Join\Join\bin\Debug\netcoreapp3.0\Join.runtimeconfig.json
+C:\projects\join\Join\Join\bin\Debug\netcoreapp3.0\Join.runtimeconfig.dev.json
+C:\projects\join\Join\Join\bin\Debug\netcoreapp3.0\Join.dll
+C:\projects\join\Join\Join\bin\Debug\netcoreapp3.0\Join.pdb
+C:\projects\join\Join\Join\obj\Debug\netcoreapp3.0\Join.csprojAssemblyReference.cache
+C:\projects\join\Join\Join\obj\Debug\netcoreapp3.0\Join.AssemblyInfoInputs.cache
+C:\projects\join\Join\Join\obj\Debug\netcoreapp3.0\Join.AssemblyInfo.cs
+C:\projects\join\Join\Join\obj\Debug\netcoreapp3.0\Join.dll
+C:\projects\join\Join\Join\obj\Debug\netcoreapp3.0\Join.pdb
